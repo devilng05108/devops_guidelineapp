@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devops_guidelineapp/static/css/main.1af84c15.css",
+    "main.js": "/devops_guidelineapp/static/js/main.9e1a697c.js",
+    "index.html": "/devops_guidelineapp/index.html",
+    "main.1af84c15.css.map": "/devops_guidelineapp/static/css/main.1af84c15.css.map",
+    "main.9e1a697c.js.map": "/devops_guidelineapp/static/js/main.9e1a697c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af84c15.css",
+    "static/js/main.9e1a697c.js"
+  ]
+}
