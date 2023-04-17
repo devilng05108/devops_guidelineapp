@@ -1,0 +1,90 @@
+.topText{
+    font-size: 20px;
+}
+
+.mainContainer{
+    width: 1500px;
+    /* height: 1000px; */
+    background-color: #A6A6A6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+.secContainer{
+    width: 85%;
+    height: 75%;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+}
+
+.text1{
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+
+.butGroup{
+    display:flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+    /* position: absolute;
+    right:20px;
+    bottom:20px; */
+}
+
+.butBack{
+    background-color: #FABE5A;
+    width: 90px;
+    height: 35px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.butNext{
+    background-color: #FABE5A;
+    width: 90px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.scale{
+    display:flex;
+    flex-direction: row;
+    margin-top: 80px
+}
+
+.select{
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+
+.link{
+    font-size: 20px;
+}
+
+.subtitle{
+    margin-top: 40px;
+}
+
+table,th,td {
+    border: 1px solid;
+    border-color: black;
+}
+
+th{
+    background-color: #FABD59;
+}
+
+td{
+     white-space: pre-line;
+     line-height: 24px;
+}
+
